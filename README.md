@@ -1,2 +1,4 @@
 # Car-Race-Game
-Car Race Game using HTML, CSS, JS
+A simple 2D game developed using html, css, js.
+Move using top, right, bottom, left arrow keys.
+
